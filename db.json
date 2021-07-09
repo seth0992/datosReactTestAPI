@@ -1,11 +1,35 @@
 {
-  "posts": [
+  "services": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Desarrollo Web",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. A  cupiditate est itaque libero temporibus perspiciatis aut minima, dignissimos sunt! Itaque!"
+      
+    },
+      {
+      "id": 2,
+      "title": "Desarrollo Web 1",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. A  cupiditate est itaque libero temporibus perspiciatis aut minima, dignissimos sunt! Itaque!"
+      
+    },
+      {
+      "id": 3,
+      "title": "Desarrollo Web 2",
+      "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. A  cupiditate est itaque libero temporibus perspiciatis aut minima, dignissimos sunt! Itaque!"
+      
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "works": [{
+    "id":1
+    "type": "Web 1",
+    "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. A  cupiditate est itaque libero temporibus perspiciatis aut minima, dignissimos sunt! Itaque!",
+  }, {
+    "id":2
+    "type": "Web 2",
+    "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. A  cupiditate est itaque libero temporibus perspiciatis aut minima, dignissimos sunt! Itaque!",
+  }, {
+    "id":3
+    "type": "Web 3",
+    "desc": " Lorem ipsum dolor sit amet consectetur adipisicing elit. A  cupiditate est itaque libero temporibus perspiciatis aut minima, dignissimos sunt! Itaque!",
+  }]
 }
